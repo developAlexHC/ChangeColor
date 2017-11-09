@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA03EFAF1FB443F200360B18 /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA03EFAE1FB443F200360B18 /* ColorViewController.swift */; };
 		FAB56A6E1FB095DA0032B17E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB56A6D1FB095DA0032B17E /* AppDelegate.swift */; };
 		FAB56A701FB095DA0032B17E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB56A6F1FB095DA0032B17E /* ViewController.swift */; };
 		FAB56A731FB095DA0032B17E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAB56A711FB095DA0032B17E /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FA03EFAE1FB443F200360B18 /* ColorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorViewController.swift; sourceTree = "<group>"; };
 		FAB56A6A1FB095DA0032B17E /* ChangeColor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChangeColor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAB56A6D1FB095DA0032B17E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAB56A6F1FB095DA0032B17E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				FAB56A6D1FB095DA0032B17E /* AppDelegate.swift */,
 				FAB56A6F1FB095DA0032B17E /* ViewController.swift */,
 				FAB56A711FB095DA0032B17E /* Main.storyboard */,
+				FA03EFAE1FB443F200360B18 /* ColorViewController.swift */,
 				FAB56A741FB095DA0032B17E /* Assets.xcassets */,
 				FAB56A761FB095DA0032B17E /* LaunchScreen.storyboard */,
 				FAB56A791FB095DA0032B17E /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAB56A701FB095DA0032B17E /* ViewController.swift in Sources */,
+				FA03EFAF1FB443F200360B18 /* ColorViewController.swift in Sources */,
 				FAB56A6E1FB095DA0032B17E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
